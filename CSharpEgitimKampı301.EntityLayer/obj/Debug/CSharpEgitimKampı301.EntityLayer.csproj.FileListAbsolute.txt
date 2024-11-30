@@ -1,0 +1,12 @@
+C:\Users\user\source\repos\CSharpEgitimKampı301\CSharpEgitimKampı301.EntityLayer\bin\Debug\CSharpEgitimKampı301.EntityLayer.dll.config
+C:\Users\user\source\repos\CSharpEgitimKampı301\CSharpEgitimKampı301.EntityLayer\bin\Debug\CSharpEgitimKampı301.EntityLayer.dll
+C:\Users\user\source\repos\CSharpEgitimKampı301\CSharpEgitimKampı301.EntityLayer\bin\Debug\CSharpEgitimKampı301.EntityLayer.pdb
+C:\Users\user\source\repos\CSharpEgitimKampı301\CSharpEgitimKampı301.EntityLayer\bin\Debug\EntityFramework.dll
+C:\Users\user\source\repos\CSharpEgitimKampı301\CSharpEgitimKampı301.EntityLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\user\source\repos\CSharpEgitimKampı301\CSharpEgitimKampı301.EntityLayer\bin\Debug\EntityFramework.xml
+C:\Users\user\source\repos\CSharpEgitimKampı301\CSharpEgitimKampı301.EntityLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\user\source\repos\CSharpEgitimKampı301\CSharpEgitimKampı301.EntityLayer\obj\Debug\CSharpEgitimKampı301.EntityLayer.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\CSharpEgitimKampı301\CSharpEgitimKampı301.EntityLayer\obj\Debug\CSharpEgitimKampı301.EntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\CSharpEgitimKampı301\CSharpEgitimKampı301.EntityLayer\obj\Debug\CSharpEg.729400EE.Up2Date
+C:\Users\user\source\repos\CSharpEgitimKampı301\CSharpEgitimKampı301.EntityLayer\obj\Debug\CSharpEgitimKampı301.EntityLayer.dll
+C:\Users\user\source\repos\CSharpEgitimKampı301\CSharpEgitimKampı301.EntityLayer\obj\Debug\CSharpEgitimKampı301.EntityLayer.pdb
